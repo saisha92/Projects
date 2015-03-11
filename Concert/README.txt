@@ -1,0 +1,3 @@
+This is Web-Application would help a Fan connect with an Artist. This is an Online website where a User could follow an Artist , get updates and also Buy tickets online for a particular concert. A Fan could also follow other users who have signed up for the website. The Artist could look at the fans who follow him/her. Post Concerts that he is going to attend. This is a Social Website where Fans and Artists could Interact.
+
+Technologies Used : Java ,JSP ,Servlet, CSS  ,HTML5, MYSQL
