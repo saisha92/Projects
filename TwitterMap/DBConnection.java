@@ -5,8 +5,7 @@ public static Connection createConnection() throws Exception
 {
 Connection conn=null;
 Class.forName("com.mysql.jdbc.Driver");
-System.out.println("2");
-String url="jdbc:mysql://samplemysql.cm0tpmhapx9k.us-east-1.rds.amazonaws.com:3306/tweetdb";
+String url="";
 String uname="";
 String pwd="";
 conn=DriverManager.getConnection(url,uname,pwd);
